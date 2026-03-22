@@ -78,3 +78,12 @@ This repository demonstrates how to design AWS networking and security foundatio
 - controlled internet ingress
 - least privilege access
 - scalable multi-AZ architecture
+
+---
+
+## Author
+
+**Christine Adelusi**  
+Senior DevOps / Platform Engineer  
+
+AWS | VPC | IAM | ALB | Security Groups | Terraform
