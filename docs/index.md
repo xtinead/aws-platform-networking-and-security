@@ -86,4 +86,4 @@ This repository demonstrates how to design AWS networking and security foundatio
 **Christine Adelusi**  
 Senior DevOps / Platform Engineer  
 
-AWS | VPC | IAM | ALB | Security Groups | Terraform
+AWS • VPC • IAM • ALB • Security Groups • Terraform
